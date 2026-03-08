@@ -4,19 +4,17 @@
 
 I work with partners who integrate with the **Isabel marketplace APIs** — helping them understand, navigate, and get the most out of the platform. Think of me as the bridge between the API and the people building on top of it.
 
-When the workday's done? I fire up my own projects — not because I have to, but because I genuinely love building things.
-
 ---
 
 ## 🛠️ What I work with
 
-```python
+```js
 stack = {
-    "languages":   ["Python", "JavaScript", "TypeScript"],
-    "web":         ["REST APIs", "FastAPI", "Node.js"],
-    "tooling":     ["Git", "Docker", "VS Code"],
+    "languages":   ["JavaScript", "TypeScript", "PHP"],
+    "web":         ["REST APIs", "Node.js", "Angular"],
+    "tooling":     ["Git", "Docker", "Jetbrains Gang"],
     "day_job":     "Isabel marketplace API enablement",
-    "nights":      "Whatever sounds fun to build"
+    "nights":      "Whatever sounds fun to do"
 }
 ```
 
@@ -24,7 +22,7 @@ stack = {
 
 ## 🚀 What I'm up to
 
-- **At work** — Helping partners successfully integrate with financial APIs. Docs, debugging, enablement.
+- **At work** — Helping partners successfully integrate with our APIs. Docs, debugging, enablement.
 - **On the side** — Building personal systems for the pure joy of it. Currently tinkering with ideas that scratch my own itch.
 - **Always learning** — There's always a new tool, pattern, or rabbit hole worth diving into.
 
